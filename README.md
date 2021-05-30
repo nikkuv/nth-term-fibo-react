@@ -1,6 +1,6 @@
 # Find the nth term in the Fibonacci sequence
 
-![Design preview for the web page](./design/fibo.jpg)
+![Design preview for the web page](./design/fibo.png)
 
 ## Welcome! 👋
 
